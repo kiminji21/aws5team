@@ -30,6 +30,6 @@
 📍 주요 기능
 ---
 #### 🌎 아키텍처
-![아키텍처](./image/architecture.PNG)
+![아키텍처](./image/architecture.png)
 
 
