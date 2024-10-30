@@ -1,6 +1,6 @@
 # aws5team
 
-                             ### AWS EKS를 활용한 3-Tier 구축
+### AWS EKS를 활용한 3-Tier 구축
 
 
 
