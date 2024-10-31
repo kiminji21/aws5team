@@ -53,13 +53,14 @@ AWS EKS를 활용한 3-Tier 구축
 
 <br>
 
-- EFS: EC2 인스턴스 간 파일 공유 및 파일 용량 자동 확장
+- **EFS: EC2 인스턴스 간 파일 공유 및 파일 용량 자동 확장**
 <p align="center">
 <img src="./image/efs.png" width="800" height="400"/>
-
+<p align="center">
+<img src="./image/efs2.png" width="800" height="400"/>
 <br>
 
-- Redis 구성
+- **Redis 구성**
 ![redis1](./image/redis1.png)       ![redis2](./image/redis2.png)
 
 <br>
