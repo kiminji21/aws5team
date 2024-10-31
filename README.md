@@ -1,5 +1,5 @@
 # 💻 Team Project
-
+![메인](./image/ott.png)
 <br>
 
 📜 목차
