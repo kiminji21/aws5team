@@ -8,7 +8,6 @@
 3. 프로젝트 개요
 4. 기술 스택
 5. 산출물
-6. 팀원 소개
 
 <br>
 
@@ -67,13 +66,17 @@ AWS EKS를 활용한 3-Tier 구축
 
 #### 🌎 Rolling Update & Roll Back
 
+
+https://github.com/user-attachments/assets/71a0c795-f06c-4499-ba36-1a9c2ae4371a
+
+
+
 <br>
 
 #### 🌎 부하테스트
 
-<br>
 
-🎈 팀원 소개
----
+https://github.com/user-attachments/assets/9497b96b-2efa-4b66-9359-acd548e86f75
+
 
 
