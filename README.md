@@ -1,5 +1,4 @@
 # 💻 Team Project
-![메인](./image/ott.png)
 <br>
 
 📜 목차
@@ -45,19 +44,24 @@ AWS EKS를 활용한 3-Tier 구축
 ---
 #### 🌎 아키텍처
 ![아키텍처](./image/architecture.png)
-- 도메인 5개 구성
-- 롤링 업데이트를 위해 Nginx, Tomcat 각 5개 구성
-- AWS ALB 사용: Ingress를 통해 외부에서 접속 가능
-![ALB](./image/ALB.png)
-- Route53: 클라이언트가 접속 시 도메인 이름을 통해 접속할 수 있도록 하기 위함
-- CloudFront: 빠른 서비스 제공
-- RDS 이중화 구성
+
+<br>
+
+#### 🌎 주요 기능
+- **AWS ALB 사용: Ingress를 통해 외부에서 접속 가능**
+<p align="center">
+<img src="./image/ALB.png" width="800" height="400"/>
+
+<br>
+
 - EFS: EC2 인스턴스 간 파일 공유 및 파일 용량 자동 확장
-![EFS](./image/efs.png)
+<p align="center">
+<img src="./image/efs.png" width="800" height="400"/>
+
+<br>
+
 - Redis 구성
 ![redis1](./image/redis1.png)       ![redis2](./image/redis2.png)
-- 배포: GitHub, ArgoCD 사용
-- 부하테스트: Jmeter, WhaTap 사용
 
 <br>
 
