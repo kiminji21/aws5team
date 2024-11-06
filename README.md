@@ -1,9 +1,8 @@
 # 💻 Team Project
 <br>
-
 프로젝트 발표 자료
-[AWS EKS를 활용한 3-Tier 웹 사이트 구축 발표자료.pdf](https://github.com/user-attachments/files/17642571/AWS.EKS.3-Tier.pdf)
-
+<br>
+[AWS EKS를 활용한 3-Tier 웹 사이트 구축 발표자료.pdf](https://github.com/user-attachments/files/17642593/AWS.EKS.3-Tier.pdf)
 
 📜 목차
 ---
